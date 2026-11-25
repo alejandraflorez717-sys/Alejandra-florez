@@ -1,0 +1,6 @@
+{
+  "name": "BeautyStats: Análisis Estadístico del Consumo de Productos de Belleza",
+  "description": "Plataforma académica interactiva para el análisis estadístico de hábitos de consumo de productos de belleza con 120 registros de encuesta, distribuciones normal, binomial, muestral y tabla Z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
